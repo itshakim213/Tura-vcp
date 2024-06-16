@@ -81,7 +81,7 @@ Once the application is running, you can:
 
 ## Contact
 
-If you have any questions or suggestions, feel free to open an issue in the repository or contact me directly at [hikhlef4@gmail.com].
+If you have any questions or suggestions, feel free to open an issue in the repository or contact me directly at sidali.ikh@outlook.com.
 
 ---
 
